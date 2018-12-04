@@ -1,0 +1,10 @@
+1、搭建spring环境，打印机装配
+　接口：Print(打印机)  Ink(墨水)  Paper(纸张) 
+  打印机实现类：EpsonPrint  HPPrint
+  墨水实现类：BlackInk  ColorInk
+  纸张实现类：A3Paper   A4Paper
+
+使用spring完成打印机的装配和内容的注入(xml,annotation)
+
+
+2、模拟搭建三层框架，使用spring完成装配(xml,注解)
